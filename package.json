@@ -1,0 +1,12 @@
+{
+  "name": "dockertest",
+  "version": "0.0.1",
+  "description": "!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
